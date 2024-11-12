@@ -146,7 +146,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Jared’s strategic approach and attention to tech trends have been key in elevating our marketing efforts. His insights consistently bring value to our team.",
+      "Albert’s strategic approach and attention to tech trends have been key in elevating our marketing efforts. His insights consistently bring value to our team.",
     designation: "CEO",
     name: "Margaret O’ Connor",
     company: "Disruptive tech investment",
@@ -154,7 +154,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Jared’s dedication to coaching and his mentorship have made a real difference for our team, inspiring young athletes to excel both on and off the court.",
+      "Albert’s dedication to coaching and his mentorship have made a real difference for our team, inspiring young athletes to excel both on and off the court.",
     name: "Doran Hull",
     designation: "COO",
     company: "Basketball MIC Parktown Boy’s",
@@ -162,9 +162,9 @@ const testimonials = [
   },
   {
     testimonial:
-      "Jared’s technical expertise streamlined our operations, improving efficiency and boosting sales. His precision and problem-solving skills are exceptional.",
+      "Albert’s technical expertise streamlined our operations, improving efficiency and boosting sales. His precision and problem-solving skills are exceptional.",
     name: "Nikita Van Heerdan",
-    designation: "CTO",
+    designation: "HR",
     company: "NSS Fasteners",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
